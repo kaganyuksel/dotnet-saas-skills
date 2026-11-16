@@ -11,13 +11,13 @@ The rules were extracted from a production HR SaaS and verified on Oracle 23ai a
 ## Install
 
 ```bash
-npx skills add <github-user>/dotnet-saas-skills
+npx skills add kaganyuksel/dotnet-saas-skills
 ```
 
 Or manually for Claude Code:
 
 ```bash
-git clone https://github.com/<github-user>/dotnet-saas-skills
+git clone https://github.com/kaganyuksel/dotnet-saas-skills
 cp -r dotnet-saas-skills/skills/dotnet-multitenant-db-agnostic ~/.claude/skills/
 ```
 
